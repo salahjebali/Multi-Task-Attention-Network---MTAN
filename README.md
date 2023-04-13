@@ -8,4 +8,4 @@ Please, for the exam of Deep Learning A.A. 2022/2023 refer to the notebook `dl_p
 
 For all the details about the project, experiments, archictureal choiches and results, please refer to `technical_report_JEBALI_MTAN.pdf` file.
 
-If you prefer consult the code file in .py format, please refer to the `project` fol
+If you prefer consult the code file in .py format, please refer to the `project` folder.
